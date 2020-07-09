@@ -1,0 +1,4 @@
+.vscode
+env
+mysite/chat/_pycache_
+mysite/mysite/_pycache_
